@@ -89,6 +89,7 @@ _BSc IT Graduate | Data Analyst Aspirant_
 If you'd like to collaborate, provide feedback, or discuss job opportunities:
 
 📧 amanyadav32327@gmail.com 
+
 📌 Location: India | Timezone: IST (UTC+5:30)
 
 ---
