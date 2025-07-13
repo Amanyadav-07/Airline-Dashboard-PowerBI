@@ -71,8 +71,8 @@ The project involved multiple phases of a real-world analytics workflow:
 | File | Description |
 |------|-------------|
 | `dashboard.png` | Final dashboard screenshot |
-| `Airline_Data_Analysis.pbix` | Power BI project file *(optional upload)* |
-| `Project_Report.pdf` | Project report document *(optional upload)* |
+| `Airline_Data_Analysis.pbix` | Power BI project file  |
+| `Project_Report.pdf` | Project report document  |
 
 ---
 
@@ -80,7 +80,7 @@ The project involved multiple phases of a real-world analytics workflow:
 
 **Aman Kumar Yadav**  
 _BSc IT Graduate | Data Analyst Aspirant_  
-[LinkedIn Profile]((https://www.linkedin.com/in/aman-yadav-6b64b6253/)) *(update this link)*
+[LinkedIn Profile][https://www.linkedin.com/in/aman-yadav-6b64b6253/]((https://www.linkedin.com/in/aman-yadav-6b64b6253/)) 
 
 ---
 
@@ -88,7 +88,7 @@ _BSc IT Graduate | Data Analyst Aspirant_
 
 If you'd like to collaborate, provide feedback, or discuss job opportunities:
 
-📧 amanyadav32327@gmail.com *(replace with your email)*  
+📧 amanyadav32327@gmail.com 
 📌 Location: India | Timezone: IST (UTC+5:30)
 
 ---
