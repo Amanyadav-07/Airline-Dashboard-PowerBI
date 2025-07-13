@@ -80,7 +80,7 @@ The project involved multiple phases of a real-world analytics workflow:
 
 **Aman Kumar Yadav**  
 _BSc IT Graduate | Data Analyst Aspirant_  
-[LinkedIn Profile][https://www.linkedin.com/in/aman-yadav-6b64b6253/]((https://www.linkedin.com/in/aman-yadav-6b64b6253/)) 
+[LinkedIn Profile](https://www.linkedin.com/in/aman-yadav-6b64b6253/)
 
 ---
 
